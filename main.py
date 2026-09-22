@@ -1,4 +1,6 @@
-"""Development entry point for SortLab."""
+"""Development entry point for SortLab. \
+
+"""
 
 from app import create_app
 
